@@ -1,0 +1,551 @@
+*{font-family:"Futura PT Medium",sans-serif;font-weight:400;list-style:none;text-decoration:none;padding:0;margin:0}
+.container{width:90%;padding:0 5%}
+header{background:#000;position:relative;top:0;left:0;width:100%;z-index:10}
+header .header_container .header_menu .menu_body .menu_list{display:-webkit-box;display:-ms-flexbox;display:flex}
+header .header_container .header_menu .menu_body .menu_list li{padding-top:52px;margin-right:5%;position:relative}
+header .header_container .header_menu .menu_body .menu_list li .navigation a{margin-right:1rem;color:#fff;font-size:17px;text-decoration:none;background-image:-webkit-gradient(linear,left top,left bottom,from(currentColor),to(currentColor));background-image:linear-gradient(currentColor,currentColor);background-position:0 100%;background-repeat:no-repeat;background-size:0 2px;-webkit-transition:background-size .3s;transition:background-size .3s}
+header .header_container .header_menu .menu_body .menu_list li .navigation a:hover{padding-bottom:5px;background-size:100% 2px}
+header .header_container .header_menu .menu_body .menu_list li .societies a{margin-right:.5rem}
+header .header_container .header_menu .menu_body .menu_list li .account{display:-webkit-box;display:-ms-flexbox;display:flex}
+header .header_container .header_menu .menu_body .menu_list li .account a{margin:5px 0 0 10px;color:#f33;font-size:17px}
+header .header_container .header_menu .menu_body .menu_list li:first-child{padding-top:20px;margin-right:10%}
+.page .firstScreen{background:#000;padding-bottom:210px}
+.page .firstScreen .container h1{width:70%;margin:0 auto;font-family:Lato,sans-serif;font-weight:500;font-size:110px;color:#fff;background:radial-gradient(50% 50% at 50% 50%,rgba(255,51,51,.5) 0,rgba(255,51,51,0) 100%)}
+.page .firstScreen .container .Registration{margin-top:50px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}
+.page .firstScreen .container .Registration p{font-size:24px;color:#fff;width:25%;margin-right:30px}
+.page .firstScreen .container .Registration a{background:#f33;font-size:24px;padding:20px;text-align:center;color:#fff}
+.page .slotsBetsCasinoLotteryPokerGambling .slotsBetsCasinoLotteryPokerGamblingLine{display:-webkit-box;display:-ms-flexbox;display:flex;width:100%;margin-right:0}
+.page .slotsBetsCasinoLotteryPokerGambling .slotsBetsCasinoLotteryPokerGamblingLine .slotsBetsCasinoLotteryPokerGamblingBlock{width:100%;display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .slotsBetsCasinoLotteryPokerGambling .slotsBetsCasinoLotteryPokerGamblingLine .slotsBetsCasinoLotteryPokerGamblingBlock img{display:block;margin-right:5%}
+.page .targets{background:#000;-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);padding:100px 0}
+.page .targets .container{background:radial-gradient(50% 50% at 50% 50%,rgba(255,51,51,.5) 0,rgba(255,51,51,0) 100%)}
+.page .targets .container h2{text-align:center;font-family:Lato,sans-serif;font-weight:500;color:#fff;font-size:100px;margin-bottom:20px}
+.page .targets .container p{font-size:22px;color:#fff;text-align:center;width:35%;margin:0 auto}
+.page .targets .container .targetsLine{display:-webkit-box;display:-ms-flexbox;display:flex;margin-top:60px}
+.page .targets .container .targetsLine .targetBlock{width:25%;margin-right:30px;padding:30px 0;height:282px;background:linear-gradient(130.66deg,rgba(255,255,255,.3) -19.06%,rgba(255,255,255,0) 31.37%),#000;-webkit-box-shadow:inset 30px 30px 36px rgba(21,21,21,.5);box-shadow:inset 30px 30px 36px rgba(21,21,21,.5);border-radius:8px}
+.page .targets .container .targetsLine .targetBlock img{display:block;margin:0 auto}
+.page .targets .container .targetsLine .targetBlock p{width:100%;margin-top:20px;font-size:22px;color:#fff}
+.page .text{background:#000;padding:300px 0}
+.page .text .container h2{color:#fff;margin:0 auto;width:38%;padding:100px;background-image:url(../img/Ellipse.png);background-position:center;background-repeat:no-repeat;background-size:cover}
+.page .text .container h2 span{border-bottom:1px solid rgba(255,51,51,.5)}
+.page .converter{padding:100px 0}
+.page .converter .container{display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .converter .container .converterHeading{width:50%}
+.page .converter .container .converterHeading h2:first-of-type{margin-top:57px}
+.page .converter .container .converterHeading h2{text-align:center;font-size:100px}
+.page .converter .container .diagram{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}
+.page .converter .container .diagram img{display:block;margin-bottom:15px;margin:0 auto}
+.page .converter .container .diagram p{font-size:24px;color:#000;width:50%;margin:0 auto}
+.page .staking{background:#000;-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);padding:100px 0}
+.page .staking .container{background:radial-gradient(50% 50% at 50% 50%,rgba(255,51,51,.5) 0,rgba(255,51,51,0) 100%)}
+.page .staking p{font-size:24px;color:#fff;width:20%;margin-bottom:40px}
+.page .staking p:last-of-type{margin-bottom:100px;margin-left:80%}
+.page .staking h2{color:#fff;font-size:110px;margin-bottom:40px;text-align:center;padding:100px;background-image:url(../img/Ellipse.png);background-position:center;background-repeat:no-repeat;background-size:contain}
+.page .staking .stakingLine{display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .staking .stakingLine .stakingBlock{width:25%;margin-right:30px;height:206px;padding:30px 20px;background:linear-gradient(130.66deg,rgba(255,255,255,.3) -19.06%,rgba(255,255,255,0) 31.37%),#000;-webkit-box-shadow:-5px -5px 20px rgba(255,255,255,.3),inset 30px 30px 36px rgba(21,21,21,.5);box-shadow:-5px -5px 20px rgba(255,255,255,.3),inset 30px 30px 36px rgba(21,21,21,.5);border-radius:8px}
+.page .staking .stakingLine .stakingBlock h3{font-size:24px;color:#fff;text-align:center}
+.page .staking .stakingLine .stakingBlock p{margin:10px 0 0 0;text-align:center;width:100%;font-size:20px;color:#fff}
+.page .packages{padding:100px 0}
+.page .packages .container .packagesHeading{display:-webkit-box;display:-ms-flexbox;display:flex;margin-bottom:100px}
+.page .packages .container .packagesHeading h2{width:40%;margin-right:20%;font-family:Lato,sans-serif;font-weight:500;font-size:110px;color:#000}
+.page .packages .container .packagesHeading p{width:40%;font-size:24px;color:#000}
+.page .packages .container .swiper-container{height:350px}
+.page .packages .container .swiper-container .swiper-wrapper .swiper-slide{width:35%;height:320px;margin-right:40px}
+.page .packages .container .swiper-container .swiper-wrapper .swiper-slide .packagesBlock{position:relative;width:100%;height:319px;background:#fff;border:2px solid #f33;-webkit-box-sizing:border-box;box-sizing:border-box;border-radius:8px}
+.page .packages .container .swiper-container .swiper-wrapper .swiper-slide .packagesBlock img{display:block;position:absolute;top:-45px;left:35%}
+.page .packages .container .swiper-container .swiper-wrapper .swiper-slide .packagesBlock h3{color:#f33;margin-top:63px;font-size:50px;font-weight:600;text-align:center}
+.page .packages .container .swiper-container .swiper-wrapper .swiper-slide .packagesBlock p{font-size:24px;color:#000;text-align:center;margin-top:10px}
+.page .packages .container .swiper-container .swiper-wrapper .swiper-slide .packagesBlock p span{font-weight:600}
+.page .packages .container .swiper-container .swiper-wrapper .swiper-slide .packagesBlock p:last-of-type{margin-top:50px}
+.page .packages .container .swiper-container .swiper-button-next::after,.page .packages .container .swiper-container .swiper-button-prev::after{background:#f33;color:#fff;border-radius:100%;padding:15px 20px;font-size:65px}
+.page .ReferralSystem{padding:200px 0 100px 0;background:#000}
+.page .ReferralSystem .container h2{font-family:Lato,sans-serif;font-weight:500;font-size:110px;text-align:center;color:#fff;margin-bottom:40px;background:radial-gradient(50% 50% at 50% 50%,rgba(255,51,51,.5) 0,rgba(255,51,51,0) 100%);padding:50px}
+.page .ReferralSystem .container p{color:#fff;text-align:left;margin-left:70%;font-size:24px;margin-bottom:100px;width:20%}
+.page .ReferralSystem .container .ReferralSystemLine{display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock{margin-right:30px;width:50%;padding:30px 50px 30px 30px;background:linear-gradient(130.66deg,rgba(255,255,255,.3) -19.06%,rgba(255,255,255,0) 31.37%),#000;-webkit-box-shadow:-5px -5px 20px rgba(255,255,255,.3),inset 30px 30px 36px rgba(21,21,21,.5);box-shadow:-5px -5px 20px rgba(255,255,255,.3),inset 30px 30px 36px rgba(21,21,21,.5);border-radius:8px}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock h3{font-weight:600;font-size:36px;color:#fff;margin-bottom:30px}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock p{width:100%;margin:0 0 80px 0;color:#fff;font-size:24px}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock span{display:block;margin-top:130px;font-size:20px;text-align:right;color:rgba(255,255,255,.7)}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine{display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine .ReferralSystemBlockLineBlock{width:50%;margin-right:66px}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine .ReferralSystemBlockLineBlock h4{font-size:26px;color:#fff;margin-bottom:10px}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine .ReferralSystemBlockLineBlock p{font-size:20px;color:#fff;width:100%}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine2 .ReferralSystemBlockLineBlock1{width:20%}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine2 .ReferralSystemBlockLineBlock2{width:80%}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine2 .ReferralSystemBlockLineBlock2 p{width:100%}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock2 span{margin-top:40px}
+.page .Promo .PromoText{padding:100px 50px;display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .Promo .PromoText img{padding-top:166px;display:block;width:150px;height:150px}
+.page .Promo .PromoText h2{font-size:400px;font-family:Lato,sans-serif;font-weight:500;color:#f33}
+.page .Promo .container .fastStart{margin-bottom:200px}
+.page .Promo .container .fastStart .fastStartHeading{display:-webkit-box;display:-ms-flexbox;display:flex;margin-bottom:100px;padding-left:100px}
+.page .Promo .container .fastStart .fastStartHeading .fastStartHeadingLeft{width:40%}
+.page .Promo .container .fastStart .fastStartHeading .fastStartHeadingLeft h3{font-family:Lato,sans-serif;font-weight:500;font-size:110px;color:#000}
+.page .Promo .container .fastStart .fastStartHeading .fastStartHeadingRight{width:60%}
+.page .Promo .container .fastStart .fastStartHeading .fastStartHeadingRight p{font-size:24px;color:#000;width:40%;margin-top:50px}
+.page .Promo .container .fastStart .fastStartBigBlock{border:2px solid #f33;padding:100px 115px}
+.page .Promo .container .fastStart .fastStartBigBlock p{font-size:24px;color:#000;width:70%;margin-bottom:50px}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine{display:block}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine .fastStartBlock{margin-bottom:120px;width:50%}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine .fastStartBlock p{font-size:20px;color:#000;width:100%;margin:0}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine .fastStartBlock .fastStartBlockHeading{display:-webkit-box;display:-ms-flexbox;display:flex;margin-bottom:10px}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine .fastStartBlock .fastStartBlockHeading img{display:block;width:60px;height:60px}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine .fastStartBlock .fastStartBlockHeading h3{font-weight:600;font-size:36px;width:80%;margin-right:51px}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine .fastStartBlock:last-of-type{margin-right:0}
+.page .Promo .container .heat{margin-bottom:200px}
+.page .Promo .container .heat .heatHeading{padding-left:100px}
+.page .Promo .container .heat .heatHeading h2{font-family:Lato,sans-serif;font-weight:500;font-size:110px;color:#000;margin-bottom:20px}
+.page .Promo .container .heat .heatHeading p{font-size:24px;color:#000;margin-bottom:100px}
+.page .Promo .container .heat .heatBigBlock{border:2px solid #f33;padding:100px 115px}
+.page .Promo .container .heat .heatBigBlock .heatBlockLine{display:-webkit-box;display:-ms-flexbox;display:flex;margin-bottom:50px}
+.page .Promo .container .heat .heatBigBlock .heatBlockLine .heatBlock{width:20%}
+.page .Promo .container .heat .heatBigBlock .heatBlockLine .heatBlock img{display:block;margin-bottom:40px}
+.page .Promo .container .heat .heatBigBlock .heatBlockLine .heatBlock p{margin-bottom:10px;font-size:24px;color:#000}
+.page .Promo .container .heat .heatBigBlock .heatBlockLine .heatBlock span{display:block;color:#000;font-size:16px}
+.page .Promo .container .heat .heatBigBlock .heatText h3{font-weight:600;font-size:36px;color:#000;margin-bottom:20px}
+.page .Promo .container .heat .heatBigBlock .heatText p{font-size:24px;color:#000;margin-bottom:20px}
+.page .Promo .container .heat .heatBigBlock .heatText p:last-of-type{margin-bottom:0}
+.page .Promo .container .heat .heatBigBlock .heatText img{display:block;height:82px;margin-bottom:40px}
+.page .Promo .container .Tesla{margin-bottom:100px}
+.page .Promo .container .Tesla .TeslaHeading{padding-left:100px}
+.page .Promo .container .Tesla .TeslaHeading h2{font-family:Lato,sans-serif;font-weight:500;font-size:110px;color:#000;margin-bottom:20px}
+.page .Promo .container .Tesla .TeslaHeading p{font-size:24px;color:#000;margin-bottom:100px}
+.page .Promo .container .Tesla .TeslaBigBlock{border:2px solid #f33;padding:100px 115px}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaBlockLine{display:-webkit-box;display:-ms-flexbox;display:flex;margin-bottom:50px}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaBlockLine .TeslaBlock{width:20%}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaBlockLine .TeslaBlock img{display:block;margin-bottom:40px}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaBlockLine .TeslaBlock p{margin-bottom:10px;font-size:24px;color:#000}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaBlockLine .TeslaBlock span{display:block;color:#000;font-size:16px}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaText h3{font-weight:600;font-size:36px;color:#000;margin-bottom:20px}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaText p{font-size:24px;color:#000;margin-bottom:20px}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaText p:last-of-type{margin-bottom:0}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaText img{display:block;height:82px;margin-bottom:40px}
+.page .RoadMap{background:#000;padding:100px 0}
+.page .RoadMap .container .RoadMapHeading{padding-left:100px;display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .RoadMap .container .RoadMapHeading h2{font-family:Lato,sans-serif;font-weight:500;color:#fff;font-size:110px;margin-bottom:100px;margin-right:15%}
+.page .RoadMap .container .RoadMapHeading p{font-size:24px;color:#fff;width:25%;margin-top:72px}
+.page .RoadMap .container .RoadMapBlocks{background:radial-gradient(50% 50% at 50% 50%,rgba(255,51,51,.5) 0,rgba(255,51,51,0) 100%)}
+.page .RoadMap .container .RoadMapBlocks .RoadMapLine{display:-webkit-box;display:-ms-flexbox;display:flex;margin-bottom:30px}
+.page .RoadMap .container .RoadMapBlocks .RoadMapLine .RoadMapBlock{padding:20px;width:20%;height:260px;margin-right:30px;background:linear-gradient(130.66deg,rgba(255,255,255,.3) -19.06%,rgba(255,255,255,0) 31.37%),#000;-webkit-box-shadow:-5px -5px 20px rgba(0,0,0,.3),inset 30px 30px 36px rgba(21,21,21,.5);box-shadow:-5px -5px 20px rgba(0,0,0,.3),inset 30px 30px 36px rgba(21,21,21,.5);border-radius:8px}
+.page .RoadMap .container .RoadMapBlocks .RoadMapLine .RoadMapBlock span{display:block;color:#fff;font-size:14px;margin-bottom:20px}
+.page .RoadMap .container .RoadMapBlocks .RoadMapLine .RoadMapBlock p{width:100%;font-size:20px;color:#fff}
+.page .RoadMap .container .RoadMapBlocks .RoadMapLine:last-of-type{margin-bottom:0}
+.page .join{background:#000;padding-bottom:160px}
+.page .join .container h2{font-family:Lato,sans-serif;font-weight:500;color:#fff;font-size:110px;width:50%;margin:0 auto;background:radial-gradient(50% 50% at 50% 50%,rgba(255,51,51,.5) 0,rgba(255,51,51,0) 100%)}
+.page .join .container .registrButn{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;text-align:center;margin:50px 0 30px 0;-webkit-box-align:center;-ms-flex-align:center;align-items:center}
+.page .join .container .registrButn a{display:block;text-align:center;margin:0 auto;width:20%;font-size:24px;color:#fff;background:#f33;padding:20px}
+.page .join .container .docs{display:block;text-align:center}
+.page .join .container .docs a{display:block;color:#f33;font-size:20px;margin-bottom:10px}
+.page .join .container .docs a:last-of-type{margin-bottom:0}
+@media (max-width:1546px){
+header .header_container .header_menu .menu_body .menu_list li .navigation a{margin-right:.5rem}
+.page .firstScreen .container .Registration a{height:50px;padding:10px 10px 0 10px}
+.page .Promo .PromoText{padding:100px 50px;display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .Promo .PromoText img{padding-top:166px;display:block;width:150px;height:150px}
+.page .Promo .PromoText h2{font-size:300px;font-family:Lato,sans-serif;font-weight:500;color:#f33}
+}
+@media (max-width:1490px){
+header{position:fixed}
+header .header_container .header_menu .menu_icon{position:absolute;top:50px;right:20px;width:50px;height:50px;cursor:pointer}
+header .header_container .header_menu .menu_icon span,header .header_container .header_menu .menu_icon span::after,header .header_container .header_menu .menu_icon span::before{width:100%;position:absolute;height:10px;background:#333;display:block;-webkit-transition:.3s;transition:.3s;border-radius:5px}
+header .header_container .header_menu .menu_icon span::before{content:"";top:-20px;-webkit-transition:top .3s .3s,-webkit-transform .3s cubic-bezier(.23,1,.32,1);transition:top .3s .3s,-webkit-transform .3s cubic-bezier(.23,1,.32,1);transition:top .3s .3s,transform .3s cubic-bezier(.23,1,.32,1);transition:top .3s .3s,transform .3s cubic-bezier(.23,1,.32,1),-webkit-transform .3s cubic-bezier(.23,1,.32,1)}
+header .header_container .header_menu .menu_icon span::after{content:"";bottom:-20px;-webkit-transition:bottom .3s .3s,-webkit-transform .3s cubic-bezier(.23,1,.32,1);transition:bottom .3s .3s,-webkit-transform .3s cubic-bezier(.23,1,.32,1);transition:bottom .3s .3s,transform .3s cubic-bezier(.23,1,.32,1);transition:bottom .3s .3s,transform .3s cubic-bezier(.23,1,.32,1),-webkit-transform .3s cubic-bezier(.23,1,.32,1)}
+header .header_container .header_menu .menu_icon span.active::before{content:"";top:0;-webkit-transform:rotate(45deg);transform:rotate(45deg);-webkit-transition:top .3s,-webkit-transform .3s .3s cubic-bezier(.68,-.55,.265,1.55);transition:top .3s,-webkit-transform .3s .3s cubic-bezier(.68,-.55,.265,1.55);transition:top .3s,transform .3s .3s cubic-bezier(.68,-.55,.265,1.55);transition:top .3s,transform .3s .3s cubic-bezier(.68,-.55,.265,1.55),-webkit-transform .3s .3s cubic-bezier(.68,-.55,.265,1.55)}
+header .header_container .header_menu .menu_icon span.active::after{content:"";top:0;-webkit-transform:rotate(-45deg);transform:rotate(-45deg);-webkit-transition:top .3s,-webkit-transform .3s .3s cubic-bezier(.68,-.55,.265,1.55);transition:top .3s,-webkit-transform .3s .3s cubic-bezier(.68,-.55,.265,1.55);transition:top .3s,transform .3s .3s cubic-bezier(.68,-.55,.265,1.55);transition:top .3s,transform .3s .3s cubic-bezier(.68,-.55,.265,1.55),-webkit-transform .3s .3s cubic-bezier(.68,-.55,.265,1.55)}
+header .header_container .header_menu .menu_icon span.active{background:rgba(255,255,255,0)}
+header .header_container .header_menu .menu_body{display:block}
+header .header_container .header_menu .menu_body .menu_list{display:block;width:220px;height:auto;background:#000;color:#ccc;padding:10px;position:fixed;left:-320px;-webkit-transition:left .5s cubic-bezier(.68,-.55,.265,1.55);transition:left .5s cubic-bezier(.68,-.55,.265,1.55)}
+header .header_container .header_menu .menu_body .menu_list.animate{left:0}
+header .header_container .header_menu .menu_body .menu_list.animate li{padding:0;margin-bottom:1rem}
+header .header_container .header_menu .menu_body .menu_list.animate li .navigation a{display:block;margin-bottom:.5rem;color:#fff;padding:20px 0 20px 10px;border-top:1px solid rgba(255,51,51,.5);font-size:17px;text-decoration:none;background-image:none}
+header .header_container .header_menu .menu_body .menu_list.animate li .navigation a:last-of-type{border-bottom:1px solid rgba(255,51,51,.5)}
+header .header_container .header_menu .menu_body .menu_list.animate li .societies a{margin-right:.5rem}
+header .header_container .header_menu .menu_body .menu_list.animate li .account{display:-webkit-box;display:-ms-flexbox;display:flex}
+header .header_container .header_menu .menu_body .menu_list.animate li .account a{margin:5px 0 0 10px;color:#f33;font-size:17px}
+header .header_container .header_menu .menu_body .menu_list.animate li:first-child{padding-top:20px}
+.page .Promo .container .fastStart .fastStartHeading .fastStartHeadingLeft{width:50%}
+footer{display:none}
+}
+@media (max-width:1360px){
+.page .Promo .PromoText{padding:100px 50px;display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .Promo .PromoText img{padding-top:50px;display:block;width:150px;height:150px}
+.page .Promo .PromoText h2{font-size:200px;font-family:Lato,sans-serif;font-weight:500;color:#f33}
+.page .Promo .container .fastStart .fastStartBigBlock{border:2px solid #f33;padding:30px}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine{display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine .fastStartBlock{margin-right:0;width:50%}
+}
+@media (max-width:1200px){
+.page .slotsBetsCasinoLotteryPokerGambling .slotsBetsCasinoLotteryPokerGamblingLine{display:-webkit-box;display:-ms-flexbox;display:flex;width:100%;margin-right:0}
+.page .slotsBetsCasinoLotteryPokerGambling .slotsBetsCasinoLotteryPokerGamblingLine .slotsBetsCasinoLotteryPokerGamblingBlock{width:100%;display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .slotsBetsCasinoLotteryPokerGambling .slotsBetsCasinoLotteryPokerGamblingLine .slotsBetsCasinoLotteryPokerGamblingBlock img{display:block;margin-right:0}
+.page .Promo .PromoText{padding:100px 50px;display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .Promo .PromoText img{padding-top:50px;display:block;width:150px;height:150px}
+.page .Promo .PromoText h2{font-size:200px;font-family:Lato,sans-serif;font-weight:500;color:#f33}
+.page .Promo .container .fastStart{margin-bottom:200px}
+.page .Promo .container .fastStart .fastStartHeading{display:-webkit-box;display:-ms-flexbox;display:flex;margin-bottom:100px;padding-left:0}
+.page .Promo .container .fastStart .fastStartHeading .fastStartHeadingLeft{width:50%}
+.page .Promo .container .fastStart .fastStartHeading .fastStartHeadingLeft h3{font-family:Lato,sans-serif;font-weight:500;font-size:90px;color:#000}
+}
+@media (max-width:1108px){
+.page .slotsBetsCasinoLotteryPokerGambling .slotsBetsCasinoLotteryPokerGamblingLine{display:-webkit-box;display:-ms-flexbox;display:flex;width:100%;margin-right:0}
+.page .slotsBetsCasinoLotteryPokerGambling .slotsBetsCasinoLotteryPokerGamblingLine .slotsBetsCasinoLotteryPokerGamblingBlock{width:50%;display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .slotsBetsCasinoLotteryPokerGambling .slotsBetsCasinoLotteryPokerGamblingLine .slotsBetsCasinoLotteryPokerGamblingBlock img{display:block;margin-right:0;width:50%}
+.page .slotsBetsCasinoLotteryPokerGambling .slotsBetsCasinoLotteryPokerGamblingLine .slotsBetsCasinoLotteryPokerGamblingBlock:last-of-type{width:50%;display:none}
+.page .slotsBetsCasinoLotteryPokerGambling .slotsBetsCasinoLotteryPokerGamblingLine .slotsBetsCasinoLotteryPokerGamblingBlock:last-of-type img{display:block;margin-right:0;width:50%}
+.page .Promo .PromoText{padding:100px 50px;display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .Promo .PromoText img{padding-top:0;display:block;width:150px;height:150px}
+.page .Promo .PromoText h2{font-size:130px;font-family:Lato,sans-serif;font-weight:500;color:#f33}
+.page .Promo .container .fastStart{margin-bottom:200px}
+.page .Promo .container .fastStart .fastStartHeading{display:block;margin-bottom:100px;padding-left:0}
+.page .Promo .container .fastStart .fastStartHeading .fastStartHeadingLeft{width:100%}
+.page .Promo .container .fastStart .fastStartHeading .fastStartHeadingLeft h3{font-family:Lato,sans-serif;font-weight:500;font-size:90px;text-align:center;color:#000}
+.page .Promo .container .fastStart .fastStartHeading .fastStartHeadingRight{width:100%;display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .Promo .container .fastStart .fastStartHeading .fastStartHeadingRight img{display:block;margin-right:50px}
+.page .Promo .container .fastStart .fastStartHeading .fastStartHeadingRight p{font-size:24px;color:#000;width:100%}
+.page .Promo .container .fastStart .fastStartBigBlock{border:2px solid #f33;padding:100px 115px}
+.page .Promo .container .fastStart .fastStartBigBlock p{font-size:24px;color:#000;width:70%;margin-bottom:50px}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine{display:block}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine .fastStartBlock{margin-bottom:120px;width:50%}
+.page .ReferralSystem{padding:200px 0 100px 0;background:#000}
+.page .ReferralSystem .container h2{font-family:Lato,sans-serif;font-weight:500;font-size:110px;text-align:center;color:#fff;margin-bottom:40px;background:radial-gradient(50% 50% at 50% 50%,rgba(255,51,51,.5) 0,rgba(255,51,51,0) 100%);padding:50px}
+.page .ReferralSystem .container p{color:#fff;text-align:left;margin-left:70%;font-size:24px;margin-bottom:100px;width:20%}
+.page .ReferralSystem .container .ReferralSystemLine{display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock{margin-right:10px;width:40%;padding:30px 50px 30px 30px;background:linear-gradient(130.66deg,rgba(255,255,255,.3) -19.06%,rgba(255,255,255,0) 31.37%),#000;-webkit-box-shadow:-5px -5px 20px rgba(255,255,255,.3),inset 30px 30px 36px rgba(21,21,21,.5);box-shadow:-5px -5px 20px rgba(255,255,255,.3),inset 30px 30px 36px rgba(21,21,21,.5);border-radius:8px}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock h3{font-weight:600;font-size:36px;color:#fff;margin-bottom:30px}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock p{width:100%;margin:0 0 80px 0;color:#fff;font-size:24px}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock span{display:block;margin-top:130px;font-size:20px;text-align:right;color:rgba(255,255,255,.7)}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine{display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine .ReferralSystemBlockLineBlock{width:50%;margin-right:66px}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine .ReferralSystemBlockLineBlock h4{font-size:26px;color:#fff;margin-bottom:10px}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine .ReferralSystemBlockLineBlock p{font-size:20px;color:#fff;width:100%}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine2 .ReferralSystemBlockLineBlock1{width:20%}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine2 .ReferralSystemBlockLineBlock2{width:80%}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine2 .ReferralSystemBlockLineBlock2 p{width:100%}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock2 span{margin-top:40px}
+.page .RoadMap{background:#000;padding:100px 0}
+.page .RoadMap .container .RoadMapHeading{padding-left:100px;display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .RoadMap .container .RoadMapHeading h2{font-family:Lato,sans-serif;font-weight:500;color:#fff;font-size:90px;margin-bottom:100px;margin-right:15%}
+.page .RoadMap .container .RoadMapHeading p{font-size:20px;color:#fff;width:25%;margin-top:72px}
+.page .RoadMap .container .RoadMapBlocks{background:radial-gradient(50% 50% at 50% 50%,rgba(255,51,51,.5) 0,rgba(255,51,51,0) 100%)}
+.page .RoadMap .container .RoadMapBlocks .RoadMapLine{display:-webkit-box;display:-ms-flexbox;display:flex;margin-bottom:30px}
+.page .RoadMap .container .RoadMapBlocks .RoadMapLine .RoadMapBlock{padding:20px;width:20%;height:260px;margin-right:30px;background:linear-gradient(130.66deg,rgba(255,255,255,.3) -19.06%,rgba(255,255,255,0) 31.37%),#000;-webkit-box-shadow:-5px -5px 20px rgba(0,0,0,.3),inset 30px 30px 36px rgba(21,21,21,.5);box-shadow:-5px -5px 20px rgba(0,0,0,.3),inset 30px 30px 36px rgba(21,21,21,.5);border-radius:8px}
+.page .RoadMap .container .RoadMapBlocks .RoadMapLine .RoadMapBlock span{display:block;color:#fff;font-size:14px;margin-bottom:20px}
+.page .RoadMap .container .RoadMapBlocks .RoadMapLine .RoadMapBlock p{width:100%;font-size:12px;color:#fff}
+.page .join{background:#000;padding-bottom:160px}
+.page .join .container h2{font-family:Lato,sans-serif;font-weight:500;color:#fff;font-size:90px;width:80%;margin:0 auto;background:radial-gradient(50% 50% at 50% 50%,rgba(255,51,51,.5) 0,rgba(255,51,51,0) 100%)}
+.page .join .container .registrButn{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;text-align:center;margin:50px 0 30px 0;-webkit-box-align:center;-ms-flex-align:center;align-items:center}
+.page .join .container .registrButn a{display:block;text-align:center;margin:0 auto;width:25%;font-size:24px;color:#fff;background:#f33;padding:20px}
+.page .join .container .docs{display:block;text-align:center}
+.page .join .container .docs a{display:block;color:#f33;font-size:20px;margin-bottom:10px}
+.page .join .container .docs a:last-of-type{margin-bottom:0}
+}
+@media (max-width:991px){
+.page .staking{background:#000;-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);padding:100px 0}
+.page .staking .container{background:radial-gradient(50% 50% at 50% 50%,rgba(255,51,51,.5) 0,rgba(255,51,51,0) 100%)}
+.page .staking p{font-size:24px;color:#fff;width:20%;margin-bottom:40px}
+.page .staking p:last-of-type{margin-bottom:100px;margin-left:80%}
+.page .staking h2{color:#fff;font-size:110px;margin-bottom:40px;text-align:center;padding:100px;background-image:url(../img/Ellipse.png);background-position:center;background-repeat:no-repeat;background-size:contain}
+.page .staking .stakingLine{display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .staking .stakingLine .stakingBlock{width:25%;margin-right:10px;height:206px;padding:30px 20px;background:linear-gradient(130.66deg,rgba(255,255,255,.3) -19.06%,rgba(255,255,255,0) 31.37%),#000;-webkit-box-shadow:-5px -5px 20px rgba(255,255,255,.3),inset 30px 30px 36px rgba(21,21,21,.5);box-shadow:-5px -5px 20px rgba(255,255,255,.3),inset 30px 30px 36px rgba(21,21,21,.5);border-radius:8px}
+.page .staking .stakingLine .stakingBlock h3{font-size:20px;color:#fff;text-align:center}
+.page .staking .stakingLine .stakingBlock p{margin:10px 0 0 0;text-align:center;width:100%;font-size:15px;color:#fff}
+.page .ReferralSystem{padding:200px 0 100px 0;background:#000}
+.page .ReferralSystem .container h2{font-family:Lato,sans-serif;font-weight:500;font-size:90px;text-align:center;color:#fff;margin-bottom:40px;background:radial-gradient(50% 50% at 50% 50%,rgba(255,51,51,.5) 0,rgba(255,51,51,0) 100%);padding:50px}
+.page .Promo .container .fastStart{margin-bottom:200px}
+.page .Promo .container .fastStart .fastStartHeading{display:block;margin-bottom:100px;padding-left:0}
+.page .Promo .container .fastStart .fastStartHeading .fastStartHeadingLeft{width:100%}
+.page .Promo .container .fastStart .fastStartHeading .fastStartHeadingLeft h3{font-family:Lato,sans-serif;font-weight:500;font-size:90px;text-align:center;color:#000}
+.page .Promo .container .fastStart .fastStartHeading .fastStartHeadingRight{width:100%;display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .Promo .container .fastStart .fastStartHeading .fastStartHeadingRight img{display:block;margin-right:50px}
+.page .Promo .container .fastStart .fastStartHeading .fastStartHeadingRight p{font-size:24px;color:#000;width:100%}
+.page .Promo .container .fastStart .fastStartBigBlock{border:2px solid #f33;padding:100px 115px}
+.page .Promo .container .fastStart .fastStartBigBlock p{font-size:24px;color:#000;width:70%;margin-bottom:50px}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine{display:block}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine .fastStartBlock{margin-bottom:120px;width:50%}
+.page .Promo .container .heat .heatBigBlock{border:2px solid #f33;padding:100px 115px}
+.page .Promo .container .heat .heatBigBlock .heatBlockLine{display:block;margin-bottom:50px}
+.page .Promo .container .heat .heatBigBlock .heatBlockLine .heatBlock{width:50%;margin:0 auto}
+.page .Promo .container .heat .heatBigBlock .heatText{width:100%}
+.page .Promo .container .heat .heatBigBlock .heatText h3{font-weight:600;font-size:36px;color:#000;margin-bottom:20px}
+.page .Promo .container .heat .heatBigBlock .heatText p{font-size:24px;color:#000;margin-bottom:20px}
+.page .Promo .container .heat .heatBigBlock .heatText p:last-of-type{margin-bottom:0}
+.page .Promo .container .heat .heatBigBlock .heatText img{display:block;width:70%;height:82px;margin-bottom:40px}
+.page .Promo .container .Tesla .TeslaBigBlock{border:2px solid #f33;padding:100px 115px}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaBlockLine{display:block;margin-bottom:50px}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaBlockLine .TeslaBlock{width:50%;margin:0 auto}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaText{width:100%}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaText h3{font-weight:600;font-size:36px;color:#000;margin-bottom:20px}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaText p{font-size:24px;color:#000;margin-bottom:20px}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaText p:last-of-type{margin-bottom:0}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaText img{display:block;width:70%;height:82px;margin-bottom:40px}
+.page .join{background:#000;padding-bottom:160px}
+.page .join .container h2{font-family:Lato,sans-serif;font-weight:500;color:#fff;font-size:70px;width:50%;margin:0 auto;background:radial-gradient(50% 50% at 50% 50%,rgba(255,51,51,.5) 0,rgba(255,51,51,0) 100%)}
+.page .join .container .registrButn{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;text-align:center;margin:50px 0 30px 0;-webkit-box-align:center;-ms-flex-align:center;align-items:center}
+.page .join .container .registrButn a{display:block;text-align:center;margin:0 auto;width:30%;font-size:24px;color:#fff;background:#f33;padding:20px}
+}
+@media (max-width:768px){
+.page .firstScreen{background:#000;padding-bottom:210px}
+.page .firstScreen .container h1{width:70%;margin:0 auto;font-family:Lato,sans-serif;font-weight:500;font-size:70px;color:#fff;background:radial-gradient(50% 50% at 50% 50%,rgba(255,51,51,.5) 0,rgba(255,51,51,0) 100%)}
+.page .firstScreen .container .Registration{margin-top:50px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}
+.page .firstScreen .container .Registration p{font-size:16px;color:#fff;width:30%;margin-right:30px}
+.page .firstScreen .container .Registration a{background:#f33;font-size:20px;padding:10px 10px 0 10px;text-align:center;color:#fff}
+.page .slotsBetsCasinoLotteryPokerGambling .slotsBetsCasinoLotteryPokerGamblingLine{display:-webkit-box;display:-ms-flexbox;display:flex;width:100%;margin-right:0}
+.page .slotsBetsCasinoLotteryPokerGambling .slotsBetsCasinoLotteryPokerGamblingLine .slotsBetsCasinoLotteryPokerGamblingBlock{width:100%;display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .slotsBetsCasinoLotteryPokerGambling .slotsBetsCasinoLotteryPokerGamblingLine .slotsBetsCasinoLotteryPokerGamblingBlock img{display:block;margin-right:0}
+.page .slotsBetsCasinoLotteryPokerGambling .slotsBetsCasinoLotteryPokerGamblingLine .slotsBetsCasinoLotteryPokerGamblingBlock:last-of-type{width:100%;display:none}
+.page .slotsBetsCasinoLotteryPokerGambling .slotsBetsCasinoLotteryPokerGamblingLine .slotsBetsCasinoLotteryPokerGamblingBlock:last-of-type img{display:block;margin-right:0}
+.page .targets{background:#000;-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);padding:100px 0}
+.page .targets .container{background:radial-gradient(50% 50% at 50% 50%,rgba(255,51,51,.5) 0,rgba(255,51,51,0) 100%)}
+.page .targets .container h2{text-align:center;font-family:Lato,sans-serif;font-weight:500;color:#fff;font-size:70px;margin-bottom:20px}
+.page .targets .container p{font-size:20px;color:#fff;text-align:center;width:35%;margin:0 auto}
+.page .targets .container .targetsLine{display:-webkit-box;display:-ms-flexbox;display:flex;margin-top:60px}
+.page .targets .container .targetsLine .targetBlock{width:25%;margin-right:30px;padding:30px 0;height:200px;background:linear-gradient(130.66deg,rgba(255,255,255,.3) -19.06%,rgba(255,255,255,0) 31.37%),#000;-webkit-box-shadow:inset 30px 30px 36px rgba(21,21,21,.5);box-shadow:inset 30px 30px 36px rgba(21,21,21,.5);border-radius:8px}
+.page .targets .container .targetsLine .targetBlock img{display:block;margin:0 auto}
+.page .targets .container .targetsLine .targetBlock p{width:100%;margin-top:20px;font-size:16px;color:#fff}
+.page .text{background:#000;padding:300px 0}
+.page .text .container h2{color:#fff;margin:0 auto;width:38%;padding:100px;background-image:url(../img/Ellipse.png);background-position:center;background-repeat:no-repeat;background-size:cover}
+.page .text .container h2 span{border-bottom:1px solid rgba(255,51,51,.5)}
+.page .converter{padding:60px 0}
+.page .converter .container{display:block}
+.page .converter .container .converterHeading{width:100%}
+.page .converter .container .converterHeading h2{text-align:center;font-size:100px;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;margin:0 auto;font-size:60px}
+.page .converter .container .diagram{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}
+.page .converter .container .diagram img{display:block;margin-bottom:15px;margin:0 auto;padding-bottom:15px}
+.page .converter .container .diagram p{font-size:24px;color:#000;width:50%;margin:0 auto}
+.page .staking{background:#000;-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);padding:100px 0}
+.page .staking .container{background:radial-gradient(50% 50% at 50% 50%,rgba(255,51,51,.5) 0,rgba(255,51,51,0) 100%)}
+.page .staking p{font-size:20px;color:#fff;width:20%;margin-bottom:40px}
+.page .staking p:last-of-type{margin-bottom:100px;margin-left:80%}
+.page .staking h2{color:#fff;font-size:90px;margin-bottom:40px;text-align:center;padding:100px;background-image:url(../img/Ellipse.png);background-position:center;background-repeat:no-repeat;background-size:contain}
+.page .staking .stakingLine{display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .staking .stakingLine .stakingBlock{width:25%;margin-right:10px;height:206px;padding:30px 20px;background:linear-gradient(130.66deg,rgba(255,255,255,.3) -19.06%,rgba(255,255,255,0) 31.37%),#000;-webkit-box-shadow:-5px -5px 20px rgba(255,255,255,.3),inset 30px 30px 36px rgba(21,21,21,.5);box-shadow:-5px -5px 20px rgba(255,255,255,.3),inset 30px 30px 36px rgba(21,21,21,.5);border-radius:8px}
+.page .staking .stakingLine .stakingBlock h3{font-size:20px;color:#fff;text-align:center}
+.page .staking .stakingLine .stakingBlock p{margin:10px 0 0 0;text-align:center;width:100%;font-size:16px;color:#fff}
+.page .packages{padding:100px 0}
+.page .packages .container .packagesHeading{display:-webkit-box;display:-ms-flexbox;display:flex;margin-bottom:100px}
+.page .packages .container .packagesHeading h2{width:40%;margin-right:20%;font-family:Lato,sans-serif;font-weight:500;font-size:90px;color:#000}
+.page .packages .container .packagesHeading p{width:40%;font-size:20px;color:#000}
+.page .packages .container .swiper-container{height:350px}
+.page .packages .container .swiper-container .swiper-wrapper .swiper-slide{width:35%;height:320px;margin-right:40px}
+.page .packages .container .swiper-container .swiper-wrapper .swiper-slide .packagesBlock{position:relative;width:100%;height:319px;background:#fff;border:2px solid #f33;-webkit-box-sizing:border-box;box-sizing:border-box;border-radius:8px}
+.page .packages .container .swiper-container .swiper-wrapper .swiper-slide .packagesBlock img{display:block;position:absolute;top:-45px;left:35%}
+.page .packages .container .swiper-container .swiper-wrapper .swiper-slide .packagesBlock h3{color:#f33;margin-top:63px;font-size:50px;font-weight:600;text-align:center}
+.page .packages .container .swiper-container .swiper-wrapper .swiper-slide .packagesBlock p{font-size:24px;color:#000;text-align:center;margin-top:10px}
+.page .packages .container .swiper-container .swiper-wrapper .swiper-slide .packagesBlock p span{font-weight:600}
+.page .packages .container .swiper-container .swiper-wrapper .swiper-slide .packagesBlock p:last-of-type{margin-top:50px}
+.page .packages .container .swiper-container .swiper-button-next::after,.page .packages .container .swiper-container .swiper-button-prev::after{background:#f33;color:#fff;border-radius:100%;padding:15px 20px;font-size:65px}
+.page .ReferralSystem{padding:200px 0 100px 0;background:#000}
+.page .ReferralSystem .container h2{font-family:Lato,sans-serif;font-weight:500;font-size:70px;text-align:center;color:#fff;margin-bottom:40px;background:radial-gradient(50% 50% at 50% 50%,rgba(255,51,51,.5) 0,rgba(255,51,51,0) 100%);padding:50px}
+.page .ReferralSystem .container p{color:#fff;text-align:left;margin-left:50%;font-size:20px;margin-bottom:100px;width:50%}
+.page .ReferralSystem .container .ReferralSystemLine{display:block}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock{margin:0 auto;width:50%;padding:30px 50px 30px 30px;background:linear-gradient(130.66deg,rgba(255,255,255,.3) -19.06%,rgba(255,255,255,0) 31.37%),#000;-webkit-box-shadow:-5px -5px 20px rgba(255,255,255,.3),inset 30px 30px 36px rgba(21,21,21,.5);box-shadow:-5px -5px 20px rgba(255,255,255,.3),inset 30px 30px 36px rgba(21,21,21,.5);border-radius:8px}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock h3{font-weight:600;font-size:26px;color:#fff;margin-bottom:30px}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock p{width:100%;margin:0 0 80px 0;color:#fff;font-size:16px}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock span{display:block;margin-top:130px;font-size:14px;text-align:right;color:rgba(255,255,255,.7)}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine{display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine .ReferralSystemBlockLineBlock{width:50%;margin-right:66px}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine .ReferralSystemBlockLineBlock h4{font-size:26px;color:#fff;margin-bottom:10px}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine .ReferralSystemBlockLineBlock p{font-size:20px;color:#fff;width:100%}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine2 .ReferralSystemBlockLineBlock1{width:20%}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine2 .ReferralSystemBlockLineBlock2{width:80%}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine2 .ReferralSystemBlockLineBlock2 p{width:100%}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock2 span{margin-top:40px}
+.page .Promo .PromoText{padding:100px 50px;display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .Promo .PromoText img{padding-top:0;display:block;width:100px;height:100px}
+.page .Promo .PromoText h2{font-size:100px;font-family:Lato,sans-serif;font-weight:500;color:#f33}
+.page .Promo .container .fastStart{margin-bottom:200px}
+.page .Promo .container .fastStart .fastStartHeading{display:block;margin-bottom:10px;padding-left:0}
+.page .Promo .container .fastStart .fastStartHeading .fastStartHeadingLeft{width:100%}
+.page .Promo .container .fastStart .fastStartHeading .fastStartHeadingLeft h3{font-family:Lato,sans-serif;font-weight:500;font-size:70px;color:#000}
+.page .Promo .container .fastStart .fastStartHeading .fastStartHeadingRight{width:100%}
+.page .Promo .container .fastStart .fastStartHeading .fastStartHeadingRight p{font-size:24px;color:#000;width:80%;margin-top:50px}
+.page .Promo .container .fastStart .fastStartBigBlock{border:2px solid #f33;padding:100px 115px}
+.page .Promo .container .fastStart .fastStartBigBlock p{font-size:24px;color:#000;width:100%;margin-bottom:50px}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine{display:block}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine .fastStartBlock{margin-bottom:120px;width:70%}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine .fastStartBlock p{font-size:20px;color:#000;width:100%;margin:0}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine .fastStartBlock .fastStartBlockHeading{display:-webkit-box;display:-ms-flexbox;display:flex;margin-bottom:10px}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine .fastStartBlock .fastStartBlockHeading img{display:block;width:60px;height:60px}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine .fastStartBlock .fastStartBlockHeading h3{font-weight:600;font-size:36px;width:100%;margin-right:51px}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine .fastStartBlock:last-of-type{margin-right:0}
+.page .Promo .container .heat{margin-bottom:200px}
+.page .Promo .container .heat .heatHeading{padding-left:0}
+.page .Promo .container .heat .heatHeading h2{font-family:Lato,sans-serif;font-weight:500;font-size:70px;color:#000;margin-bottom:10px}
+.page .Promo .container .heat .heatHeading p{font-size:20px;color:#000;margin-bottom:50px}
+.page .Promo .container .heat .heatBigBlock{border:2px solid #f33;padding:30px}
+.page .Promo .container .heat .heatBigBlock .heatBlockLine{display:block;margin-bottom:50px}
+.page .Promo .container .heat .heatBigBlock .heatBlockLine .heatBlock{width:20%}
+.page .Promo .container .heat .heatBigBlock .heatBlockLine .heatBlock img{display:block;margin-bottom:40px}
+.page .Promo .container .heat .heatBigBlock .heatBlockLine .heatBlock p{margin-bottom:10px;font-size:20px;color:#000}
+.page .Promo .container .heat .heatBigBlock .heatBlockLine .heatBlock span{display:block;color:#000;font-size:16px}
+.page .Promo .container .heat .heatBigBlock .heatText h3{font-weight:600;font-size:26px;color:#000;margin-bottom:20px}
+.page .Promo .container .heat .heatBigBlock .heatText p{font-size:20px;color:#000;margin-bottom:20px}
+.page .Promo .container .heat .heatBigBlock .heatText p:last-of-type{margin-bottom:0}
+.page .Promo .container .heat .heatBigBlock .heatText img{display:block;height:82px;margin-bottom:40px}
+.page .Promo .container .Tesla{margin-bottom:100px}
+.page .Promo .container .Tesla .TeslaHeading{padding-left:0}
+.page .Promo .container .Tesla .TeslaHeading h2{font-family:Lato,sans-serif;font-weight:500;font-size:70px;color:#000;margin-bottom:20px}
+.page .Promo .container .Tesla .TeslaHeading p{font-size:20px;color:#000;margin-bottom:100px}
+.page .Promo .container .Tesla .TeslaBigBlock{border:2px solid #f33;padding:30px}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaBlockLine{display:block;margin-bottom:50px}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaBlockLine .TeslaBlock{width:20%}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaBlockLine .TeslaBlock img{display:block;margin-bottom:40px}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaBlockLine .TeslaBlock p{margin-bottom:10px;font-size:20px;color:#000}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaBlockLine .TeslaBlock span{display:block;color:#000;font-size:16px}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaText h3{font-weight:600;font-size:26px;color:#000;margin-bottom:20px}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaText p{font-size:20px;color:#000;margin-bottom:20px}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaText p:last-of-type{margin-bottom:0}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaText img{display:block;height:82px;margin-bottom:40px}
+.page .RoadMap{background:#000;padding:100px 0}
+.page .RoadMap .container .RoadMapHeading{padding-left:0;display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .RoadMap .container .RoadMapHeading h2{font-family:Lato,sans-serif;font-weight:500;color:#fff;font-size:70px;margin-bottom:100px;margin-right:15%}
+.page .RoadMap .container .RoadMapHeading p{font-size:16px;color:#fff;width:35%;margin-top:32px}
+.page .RoadMap .container .RoadMapBlocks{background:radial-gradient(50% 50% at 50% 50%,rgba(255,51,51,.5) 0,rgba(255,51,51,0) 100%)}
+.page .RoadMap .container .RoadMapBlocks .RoadMapLine{display:block;text-align:center;margin-bottom:30px}
+.page .RoadMap .container .RoadMapBlocks .RoadMapLine .RoadMapBlock{padding:20px;width:50%;height:200px;margin-left:20%;margin-bottom:20px;background:linear-gradient(130.66deg,rgba(255,255,255,.3) -19.06%,rgba(255,255,255,0) 31.37%),#000;-webkit-box-shadow:-5px -5px 20px rgba(0,0,0,.3),inset 30px 30px 36px rgba(21,21,21,.5);box-shadow:-5px -5px 20px rgba(0,0,0,.3),inset 30px 30px 36px rgba(21,21,21,.5);border-radius:8px}
+.page .RoadMap .container .RoadMapBlocks .RoadMapLine .RoadMapBlock span{display:block;color:#fff;font-size:14px;margin-bottom:20px}
+.page .RoadMap .container .RoadMapBlocks .RoadMapLine .RoadMapBlock p{width:100%;font-size:16px;color:#fff}
+.page .RoadMap .container .RoadMapBlocks .RoadMapLine:last-of-type{margin-bottom:0}
+.page .join{background:#000;padding-bottom:160px}
+.page .join .container h2{font-family:Lato,sans-serif;font-weight:500;color:#fff;font-size:70px;width:80%;margin:0 auto;background:radial-gradient(50% 50% at 50% 50%,rgba(255,51,51,.5) 0,rgba(255,51,51,0) 100%)}
+.page .join .container .registrButn{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;text-align:center;margin:50px 0 30px 0;-webkit-box-align:center;-ms-flex-align:center;align-items:center}
+.page .join .container .registrButn a{display:block;text-align:center;margin:0 auto;width:40%;font-size:24px;color:#fff;background:#f33;padding:20px}
+.page .join .container .docs{display:block;text-align:center}
+.page .join .container .docs a{display:block;color:#f33;font-size:20px;margin-bottom:10px}
+.page .join .container .docs a:last-of-type{margin-bottom:0}
+}
+@media (max-width:576px){
+.container{width:90%;padding:0 3%}
+.page .firstScreen{background:#000;padding-bottom:210px}
+.page .firstScreen .container h1{width:70%;margin:0 auto;font-family:Lato,sans-serif;font-weight:500;font-size:40px;color:#fff;background:radial-gradient(50% 50% at 50% 50%,rgba(255,51,51,.5) 0,rgba(255,51,51,0) 100%)}
+.page .firstScreen .container .Registration{margin-top:50px;display:block;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}
+.page .firstScreen .container .Registration p{font-size:16px;color:#fff;width:100%;text-align:center;margin-bottom:30px}
+.page .firstScreen .container .Registration a{display:block;width:70%;text-align:center;background:#f33;font-size:20px;padding:10px 10px 10px 10px;margin:0 auto;color:#fff}
+.page .slotsBetsCasinoLotteryPokerGambling .slotsBetsCasinoLotteryPokerGamblingLine{display:-webkit-box;display:-ms-flexbox;display:flex;width:50%;margin-right:0}
+.page .slotsBetsCasinoLotteryPokerGambling .slotsBetsCasinoLotteryPokerGamblingLine .slotsBetsCasinoLotteryPokerGamblingBlock{width:50%;display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .slotsBetsCasinoLotteryPokerGambling .slotsBetsCasinoLotteryPokerGamblingLine .slotsBetsCasinoLotteryPokerGamblingBlock img{display:block;margin-right:0}
+.page .slotsBetsCasinoLotteryPokerGambling .slotsBetsCasinoLotteryPokerGamblingLine .slotsBetsCasinoLotteryPokerGamblingBlock:last-of-type{width:100%;display:none}
+.page .slotsBetsCasinoLotteryPokerGambling .slotsBetsCasinoLotteryPokerGamblingLine .slotsBetsCasinoLotteryPokerGamblingBlock:last-of-type img{display:block;margin-right:0}
+.page .targets{background:#000;-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);padding:100px 0}
+.page .targets .container{background:radial-gradient(50% 50% at 50% 50%,rgba(255,51,51,.5) 0,rgba(255,51,51,0) 100%)}
+.page .targets .container h2{text-align:center;font-family:Lato,sans-serif;font-weight:500;color:#fff;font-size:70px;margin-bottom:20px}
+.page .targets .container p{font-size:20px;color:#fff;text-align:center;width:35%;margin:0 auto}
+.page .targets .container .targetsLine{display:block;margin-top:60px}
+.page .targets .container .targetsLine .targetBlock{width:50%;margin:0 auto;padding:30px 0;height:200px;background:linear-gradient(130.66deg,rgba(255,255,255,.3) -19.06%,rgba(255,255,255,0) 31.37%),#000;-webkit-box-shadow:inset 30px 30px 36px rgba(21,21,21,.5);box-shadow:inset 30px 30px 36px rgba(21,21,21,.5);border-radius:8px}
+.page .targets .container .targetsLine .targetBlock img{display:block;margin:0 auto}
+.page .targets .container .targetsLine .targetBlock p{width:100%;margin-top:20px;font-size:16px;color:#fff}
+.page .text{background:#000;padding:300px 0}
+.page .text .container h2{color:#fff;margin:0 auto;width:38%;padding:100px;background-image:url(../img/Ellipse.png);background-position:center;background-repeat:no-repeat;background-size:cover}
+.page .text .container h2 span{border-bottom:1px solid rgba(255,51,51,.5)}
+.page .converter{padding:60px 0}
+.page .converter .container{display:block}
+.page .converter .container .converterHeading{width:100%}
+.page .converter .container .converterHeading h2{text-align:center;font-size:100px;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;margin:0 auto;font-size:60px}
+.page .converter .container .diagram{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;width:100%}
+.page .converter .container .diagram img{display:block;margin:0 auto;width:100%;padding-bottom:15px}
+.page .converter .container .diagram p{font-size:24px;color:#000;width:50%;margin:0 auto}
+.page .staking{background:#000;-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);padding:100px 0}
+.page .staking .container{background:radial-gradient(50% 50% at 50% 50%,rgba(255,51,51,.5) 0,rgba(255,51,51,0) 100%)}
+.page .staking p{font-size:20px;color:#fff;width:50%;margin-bottom:40px}
+.page .staking p:last-of-type{margin-bottom:100px;margin-left:50%}
+.page .staking h2{color:#fff;font-size:36px;margin-bottom:40px;text-align:center;padding:100px;background-image:url(../img/Ellipse.png);background-position:center;background-repeat:no-repeat;background-size:contain}
+.page .staking .stakingLine{display:block}
+.page .staking .stakingLine .stakingBlock{width:50%;margin:0 auto;height:206px;padding:30px 20px;background:linear-gradient(130.66deg,rgba(255,255,255,.3) -19.06%,rgba(255,255,255,0) 31.37%),#000;-webkit-box-shadow:-5px -5px 20px rgba(255,255,255,.3),inset 30px 30px 36px rgba(21,21,21,.5);box-shadow:-5px -5px 20px rgba(255,255,255,.3),inset 30px 30px 36px rgba(21,21,21,.5);border-radius:8px}
+.page .staking .stakingLine .stakingBlock h3{font-size:20px;color:#fff;text-align:center}
+.page .staking .stakingLine .stakingBlock p{margin:10px 0 0 0;text-align:center;width:100%;font-size:16px;color:#fff}
+.page .packages{padding:100px 0}
+.page .packages .container .packagesHeading{display:block;margin-bottom:100px}
+.page .packages .container .packagesHeading h2{width:40%;margin-bottom:20px;font-family:Lato,sans-serif;font-weight:500;font-size:70px;color:#000}
+.page .packages .container .packagesHeading p{width:100%;margin:0 auto;font-size:20px;color:#000}
+.page .packages .container .swiper-container{height:350px}
+.page .packages .container .swiper-container .swiper-wrapper .swiper-slide{width:35%;height:320px;margin-right:40px}
+.page .packages .container .swiper-container .swiper-wrapper .swiper-slide .packagesBlock{position:relative;width:100%;height:319px;background:#fff;border:2px solid #f33;-webkit-box-sizing:border-box;box-sizing:border-box;border-radius:8px}
+.page .packages .container .swiper-container .swiper-wrapper .swiper-slide .packagesBlock img{display:block;position:absolute;top:-45px;left:15%}
+.page .packages .container .swiper-container .swiper-wrapper .swiper-slide .packagesBlock h3{color:#f33;margin-top:63px;font-size:32px;font-weight:600;text-align:center}
+.page .packages .container .swiper-container .swiper-wrapper .swiper-slide .packagesBlock p{font-size:14px;color:#000;text-align:center;margin-top:10px}
+.page .packages .container .swiper-container .swiper-wrapper .swiper-slide .packagesBlock p span{font-weight:600}
+.page .packages .container .swiper-container .swiper-wrapper .swiper-slide .packagesBlock p:last-of-type{margin-top:50px}
+.page .packages .container .swiper-container .swiper-button-next::after,.page .packages .container .swiper-container .swiper-button-prev::after{background:#f33;color:#fff;border-radius:100%;padding:15px 20px;font-size:65px}
+.page .ReferralSystem{padding:200px 0 100px 0;background:#000}
+.page .ReferralSystem .container h2{font-family:Lato,sans-serif;font-weight:500;font-size:32px;text-align:center;color:#fff;margin-bottom:40px;background:radial-gradient(50% 50% at 50% 50%,rgba(255,51,51,.5) 0,rgba(255,51,51,0) 100%);padding:50px}
+.page .ReferralSystem .container p{color:#fff;text-align:left;margin-left:50%;font-size:16px;margin-bottom:100px;width:50%}
+.page .ReferralSystem .container .ReferralSystemLine{display:block}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock{margin:0 auto;width:50%;padding:30px 50px 30px 30px;background:linear-gradient(130.66deg,rgba(255,255,255,.3) -19.06%,rgba(255,255,255,0) 31.37%),#000;-webkit-box-shadow:-5px -5px 20px rgba(255,255,255,.3),inset 30px 30px 36px rgba(21,21,21,.5);box-shadow:-5px -5px 20px rgba(255,255,255,.3),inset 30px 30px 36px rgba(21,21,21,.5);border-radius:8px}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock h3{font-weight:600;font-size:20px;color:#fff;margin-bottom:30px}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock p{width:100%;margin:0 0 80px 0;color:#fff;font-size:16px}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock span{display:block;margin-top:130px;font-size:14px;text-align:right;color:rgba(255,255,255,.7)}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine{display:block}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine .ReferralSystemBlockLineBlock{width:100%;margin-right:66px}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine .ReferralSystemBlockLineBlock img{display:block;margin:0 auto;margin-bottom:10px}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine .ReferralSystemBlockLineBlock h4{font-size:20px;color:#fff;margin-bottom:10px}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine .ReferralSystemBlockLineBlock p{font-size:16px;color:#fff;width:100%}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine2 .ReferralSystemBlockLineBlock1{width:100%}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine2 .ReferralSystemBlockLineBlock2{width:100%}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock .ReferralSystemBlockLine2 .ReferralSystemBlockLineBlock2 p{width:100%}
+.page .ReferralSystem .container .ReferralSystemLine .ReferralSystemBlock2 span{margin-top:40px}
+.page .Promo .PromoText{padding:100px 50px;display:-webkit-box;display:-ms-flexbox;display:flex}
+.page .Promo .PromoText img{padding-top:0;display:block;width:40px;height:40px}
+.page .Promo .PromoText h2{font-size:40px;font-family:Lato,sans-serif;font-weight:500;color:#f33}
+.page .Promo .container .fastStart{margin-bottom:200px}
+.page .Promo .container .fastStart .fastStartHeading{display:block;margin-bottom:10px;padding-left:0}
+.page .Promo .container .fastStart .fastStartHeading .fastStartHeadingLeft{width:100%}
+.page .Promo .container .fastStart .fastStartHeading .fastStartHeadingLeft h3{font-family:Lato,sans-serif;font-weight:500;font-size:50px;color:#000}
+.page .Promo .container .fastStart .fastStartHeading .fastStartHeadingRight{width:100%;display:block}
+.page .Promo .container .fastStart .fastStartHeading .fastStartHeadingRight img{width:50px;height:50px;text-align:center;margin:0 auto}
+.page .Promo .container .fastStart .fastStartHeading .fastStartHeadingRight p{font-size:16px;color:#000;width:80%;margin:0 auto}
+.page .Promo .container .fastStart .fastStartBigBlock{border:2px solid #f33;padding:10px 15px}
+.page .Promo .container .fastStart .fastStartBigBlock p{font-size:18px;color:#000;width:100%;margin-bottom:50px}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine{display:block}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine .fastStartBlock{margin-bottom:120px;width:70%}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine .fastStartBlock p{font-size:18px;color:#000;width:100%;margin:0}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine .fastStartBlock .fastStartBlockHeading{display:-webkit-box;display:-ms-flexbox;display:flex;margin-bottom:10px}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine .fastStartBlock .fastStartBlockHeading img{display:block;width:60px;height:60px}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine .fastStartBlock .fastStartBlockHeading h3{font-weight:600;font-size:26px;width:100%;margin-right:51px}
+.page .Promo .container .fastStart .fastStartBigBlock .fastStartLine .fastStartBlock:last-of-type{margin-right:0}
+.page .Promo .container .heat{margin-bottom:200px}
+.page .Promo .container .heat .heatHeading{padding-left:0}
+.page .Promo .container .heat .heatHeading h2{font-family:Lato,sans-serif;font-weight:500;font-size:50px;color:#000;margin-bottom:10px}
+.page .Promo .container .heat .heatHeading p{font-size:16px;color:#000;margin-bottom:50px}
+.page .Promo .container .heat .heatBigBlock{border:2px solid #f33;padding:30px}
+.page .Promo .container .heat .heatBigBlock .heatBlockLine{display:block;margin-bottom:50px}
+.page .Promo .container .heat .heatBigBlock .heatBlockLine .heatBlock{width:20%}
+.page .Promo .container .heat .heatBigBlock .heatBlockLine .heatBlock img{display:block;margin-bottom:40px}
+.page .Promo .container .heat .heatBigBlock .heatBlockLine .heatBlock p{margin-bottom:10px;font-size:20px;color:#000}
+.page .Promo .container .heat .heatBigBlock .heatBlockLine .heatBlock span{display:block;color:#000;font-size:16px}
+.page .Promo .container .heat .heatBigBlock .heatText h3{font-weight:600;font-size:26px;color:#000;margin-bottom:20px}
+.page .Promo .container .heat .heatBigBlock .heatText p{font-size:20px;color:#000;margin-bottom:20px}
+.page .Promo .container .heat .heatBigBlock .heatText p:last-of-type{margin-bottom:0}
+.page .Promo .container .heat .heatBigBlock .heatText img{display:block;height:82px;margin-bottom:40px}
+.page .Promo .container .Tesla{margin-bottom:100px}
+.page .Promo .container .Tesla .TeslaHeading{padding-left:0}
+.page .Promo .container .Tesla .TeslaHeading h2{font-family:Lato,sans-serif;font-weight:500;font-size:50px;color:#000;margin-bottom:20px}
+.page .Promo .container .Tesla .TeslaHeading p{font-size:16px;color:#000;margin-bottom:10px}
+.page .Promo .container .Tesla .TeslaBigBlock{border:2px solid #f33;padding:30px}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaBlockLine{display:block;margin-bottom:50px}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaBlockLine .TeslaBlock{width:20%}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaBlockLine .TeslaBlock img{display:block;margin-bottom:40px}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaBlockLine .TeslaBlock p{margin-bottom:10px;font-size:20px;color:#000}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaBlockLine .TeslaBlock span{display:block;color:#000;font-size:16px}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaText h3{font-weight:600;font-size:26px;color:#000;margin-bottom:20px}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaText p{font-size:20px;color:#000;margin-bottom:20px}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaText p:last-of-type{margin-bottom:0}
+.page .Promo .container .Tesla .TeslaBigBlock .TeslaText img{display:block;height:82px;margin-bottom:40px}
+.page .RoadMap{background:#000;padding:100px 0}
+.page .RoadMap .container .RoadMapHeading{padding-left:0;display:block;margin-bottom:100px}
+.page .RoadMap .container .RoadMapHeading h2{font-family:Lato,sans-serif;font-weight:500;color:#fff;font-size:50px;text-align:center}
+.page .RoadMap .container .RoadMapHeading p{font-size:16px;color:#fff;width:50%;margin:0 auto}
+.page .RoadMap .container .RoadMapBlocks{background:radial-gradient(50% 50% at 50% 50%,rgba(255,51,51,.5) 0,rgba(255,51,51,0) 100%)}
+.page .RoadMap .container .RoadMapBlocks .RoadMapLine{display:block;text-align:center;margin-bottom:30px}
+.page .RoadMap .container .RoadMapBlocks .RoadMapLine .RoadMapBlock{padding:20px;width:50%;height:200px;margin-left:20%;margin-bottom:20px;background:linear-gradient(130.66deg,rgba(255,255,255,.3) -19.06%,rgba(255,255,255,0) 31.37%),#000;-webkit-box-shadow:-5px -5px 20px rgba(0,0,0,.3),inset 30px 30px 36px rgba(21,21,21,.5);box-shadow:-5px -5px 20px rgba(0,0,0,.3),inset 30px 30px 36px rgba(21,21,21,.5);border-radius:8px}
+.page .RoadMap .container .RoadMapBlocks .RoadMapLine .RoadMapBlock span{display:block;color:#fff;font-size:14px;margin-bottom:20px}
+.page .RoadMap .container .RoadMapBlocks .RoadMapLine .RoadMapBlock p{width:100%;font-size:16px;color:#fff}
+.page .RoadMap .container .RoadMapBlocks .RoadMapLine:last-of-type{margin-bottom:0}
+.page .join{background:#000;padding-bottom:160px}
+.page .join .container h2{font-family:Lato,sans-serif;font-weight:500;color:#fff;font-size:25px;width:80%;margin:0 auto;background:radial-gradient(50% 50% at 50% 50%,rgba(255,51,51,.5) 0,rgba(255,51,51,0) 100%)}
+.page .join .container .registrButn{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;text-align:center;margin:50px 0 30px 0;-webkit-box-align:center;-ms-flex-align:center;align-items:center}
+.page .join .container .registrButn a{display:block;text-align:center;margin:0 auto;width:80%;font-size:20px;color:#fff;background:#f33;padding:20px}
+.page .join .container .docs{display:block;text-align:center}
+.page .join .container .docs a{display:block;color:#f33;font-size:20px;margin-bottom:10px}
+.page .join .container .docs a:last-of-type{margin-bottom:0}
+}
+@font-face{font-family:"Futura PT Medium",sans-serif;src:url(../fonts/futura_pt_medium.eot);src:url(../fonts/futura_pt_medium.eot?#iefix) format("embedded-opentype"),url(../fonts/futura_pt_medium.woff2) format("woff2"),url(../fonts/futura_pt_medium.woff) format("woff"),url(../fonts/futura_pt_medium.ttf) format("truetype"),url(../fonts/futura_pt_medium.svg#futura_pt_medium) format("svg")}
